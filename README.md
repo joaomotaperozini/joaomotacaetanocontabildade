@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomotacaetanocontabildade&show_icons=true&theme=transparent" width="400">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomotacaetanocontabildade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomotacaetanocontabildade&layout=compact)](https://github.com/joaomotacaetanocontabildade/github-readme-stats)
 
 ### ⚡
 <div>
