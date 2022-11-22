@@ -3,7 +3,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=joaomotacaetanocontabildade&show_icons=true&theme=transparent" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomotacaetanocontabildade&show_icons=true&theme=transparent" width="400">
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ⚡
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png" height="50">
